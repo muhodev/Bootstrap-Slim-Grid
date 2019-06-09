@@ -113,7 +113,7 @@
   }
 }
 /* ---- small ----- */
-@media (min-width: 576px) and(max-width: 768px) {
+@media (min-width: 576px) and (max-width: 768px) {
   .col-sm {
     flex-basis: 0;
     flex-grow: 1;
@@ -174,7 +174,7 @@
   }
 }
 /* ----- medium ----- */
-@media (min-width: 768px) and(max-width: 992px) {
+@media (min-width: 768px) and (max-width: 992px) {
   .col-md {
     flex-basis: 0;
     flex-grow: 1;
